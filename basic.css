@@ -2,3 +2,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #E6E6FA;
 }
+
+h1 {
+    justify-content: center;
+}
