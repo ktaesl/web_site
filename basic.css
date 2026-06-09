@@ -6,3 +6,8 @@ body {
 h1 {
     justify-content: center;
 }
+
+a {
+    justify-content: center;
+    color: black;
+}
